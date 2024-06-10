@@ -1,0 +1,1 @@
+Ola Professora, para ser bem sincero esse foium dos desafios mais dificeis de fazer do zero, tive que usar o ViaCep como base, pois a parte de js tava bem complicado para mim, eu sei que o objetivo é fazer do zero mas tive que recorrer a isso e atualizar com nome e email. uma coisa é que quando eu removia o IBGE do codigo ele quebrava e nao linkava mais. 
